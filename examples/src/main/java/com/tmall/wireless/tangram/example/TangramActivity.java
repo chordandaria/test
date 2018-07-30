@@ -297,7 +297,7 @@ public class TangramActivity extends Activity {
         engine.getLayoutManager().setFixOffset(0, 40, 0, 0);
 
         //Step 10: get tangram data and pass it to engine
-        String json = new String(getAssertsFile(this, "data.json"));
+        String json = new String(getAssertsFile(this, "test.json"));
         JSONArray data = null;
         try {
             data = new JSONArray(json);
