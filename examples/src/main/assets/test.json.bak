@@ -1,0 +1,89 @@
+[
+ {
+    "type": "container-oneColumn",
+    "items": [
+      {
+        "id": "banner1",
+        "type": "container-banner",
+        "style": {
+          "indicatorMargin": "5",
+          "infinite": "true",
+          "indicatorImg2": "https://img.alicdn.com/tps/TB1XRNFNXXXXXXKXXXXXXXXXXXX-32-4.png",
+          "indicatorImg1": "https://img.alicdn.com/tps/TB16i4qNXXXXXbBXFXXXXXXXXXX-32-4.png",
+          "scrollMarginLeft": "10",
+          "indicatorGap": "2",
+          "indicatorHeight": "1.5",
+          "itemRatio": "2.654",
+          "scrollMarginRight": "10",
+          "indicatorGravity": "center",
+          "hGap": "20",
+          "height": 200
+        },
+        "items": [
+          {
+            "type": "testView",
+            "msg": "info1",
+            "style": {
+            }
+          },
+          {
+            "type": "testView",
+            "msg": "info2",
+            "style": {
+            }
+          },
+          {
+            "type": "testView",
+            "msg": "info3",
+            "style": {
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BuyCate",
+    "type":"container-fourColumn",
+    "style": {
+      "hGap": "15",
+      "vGap": "15",
+      "margin": [null, null, null, null],
+      "padding": ["15", "15", "15", "15"]
+    },
+    "type": 25,
+    "items": [{
+      "title": "A",
+      "type": 199
+    }, {
+      "title": "B",
+      "type": 199
+    }, {
+      "title": "C",
+      "type": 199
+    }, {
+      "title": "D",
+      "type": 199
+    }, {
+      "title": "E",
+      "type": 199
+    }, {
+      "title": "F",
+      "type": 199
+    }, {
+      "title": "G",
+      "type": 199
+    }, {
+      "title": "H",
+      "type": 199
+    }]
+  },
+  {
+    "type": "container-oneColumn",
+    "items": [
+      {
+        "title": "今日比价",
+        "type": "vvtest"
+      }
+]}
+]
