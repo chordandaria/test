@@ -60,6 +60,7 @@ import com.tmall.wireless.tangram.example.data.DEBUG;
 import com.tmall.wireless.tangram.example.data.RatioTextView;
 import com.tmall.wireless.tangram.example.data.SimpleImgView;
 import com.tmall.wireless.tangram.example.data.SingleImageView;
+import com.tmall.wireless.tangram.example.data.SingleImageViewwithlines;
 import com.tmall.wireless.tangram.example.data.TestView;
 import com.tmall.wireless.tangram.example.data.TestViewHolder;
 import com.tmall.wireless.tangram.example.data.TestViewHolderCell;
