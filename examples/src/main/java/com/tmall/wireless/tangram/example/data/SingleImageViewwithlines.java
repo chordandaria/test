@@ -57,15 +57,15 @@ public class SingleImageViewwithlines extends LinearLayout implements ITangramVi
 
     private final int DEFAULT_ICON_SIZE = Style.dp2px(100);
 
-    public SingleImageView(Context context) {
+    public SingleImageViewwithlines(Context context) {
         this(context, null);
     }
 
-    public SingleImageView(Context context, AttributeSet attrs) {
+    public SingleImageViewwithlines(Context context, AttributeSet attrs) {
         this(context, attrs, -1);
     }
 
-    public SingleImageView(Context context, AttributeSet attrs, int defStyleAttr) {
+    public SingleImageViewwithlines(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
         this.context = context;
         initUI(context, DEFAULT_ICON_SIZE);
