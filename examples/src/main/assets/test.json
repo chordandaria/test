@@ -43,15 +43,7 @@
     ]
   },
   {
-    "id": "BuyCate",
     "type":"container-fourColumn",
-    "style": {
-      "hGap": "15",
-      "vGap": "15",
-      "margin": [null, null, null, null],
-      "padding": ["15", "15", "15", "15"]
-    },
-    "type": 25,
     "items": [{
       "title": "A",
       "type": 199
@@ -79,14 +71,14 @@
     }]
   },
   {
-    "type": "container-oneColumn",
+    "type": "container-threeColumn",
     "header": {
       "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
       "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
       "title": "今日比价",
       "type": "vvtest"
     },
-    "items": [
+    "items": [{
         "title": "A",
 	"price":"5000",
       "type": "singleImageViewwithlines"
